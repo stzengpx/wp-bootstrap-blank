@@ -1,0 +1,11 @@
+/*
+Theme Name: wp-bootstrap-blank
+Theme URI: http://zengpx.noicehalfsugar.tw/wp-bootstrap-blank/
+Description: This is a basic bootstrap theme for WordPress Theme developer, there is blank content even in the index.php, please generate your own one.
+Version: 1.0.0
+Author: Patrick Tseng               
+Author URI: http://zengpx.noicehalfsugar.tw/about/
+Text Domain: wp-bootstrap-blank 
+*/
+
+@import url('css/bootstrap.min.css');
